@@ -1,0 +1,10 @@
+[package]
+name = "rust_get"
+version = "0.1.0"
+authors = ["Justin"]
+
+[dependencies]
+reqwest = "*"
+chan = "*"
+colored = "*"
+chrono = "*"
